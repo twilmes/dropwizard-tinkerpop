@@ -13,7 +13,6 @@ public class GraphSONMessageSerializerV1d0Factory implements MessageSerializerFa
     @Override
     public MessageSerializer build() {
         GraphSONMessageSerializerV1d0 serializer = new GraphSONMessageSerializerV1d0();
-
         return serializer;
     }
 }

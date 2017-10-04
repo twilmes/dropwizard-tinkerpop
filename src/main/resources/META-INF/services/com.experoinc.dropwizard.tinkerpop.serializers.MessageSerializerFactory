@@ -1,2 +1,3 @@
 com.experoinc.dropwizard.tinkerpop.serializers.GryoMessageSerializerV1d0Factory
 com.experoinc.dropwizard.tinkerpop.serializers.GraphSONMessageSerializerV1d0Factory
+com.experoinc.dropwizard.tinkerpop.serializers.GraphSONMessageSerializerV2d0Factory
